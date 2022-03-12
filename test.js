@@ -1,1 +1,3 @@
-console.log("Succes")
+function loletr() {
+  console.log("Succes")
+}
